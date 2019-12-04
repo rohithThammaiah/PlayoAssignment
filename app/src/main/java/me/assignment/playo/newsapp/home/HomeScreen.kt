@@ -7,6 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
+import com.google.android.material.snackbar.Snackbar
 import io.reactivex.Observable
 import io.reactivex.disposables.CompositeDisposable
 import kotlinx.android.synthetic.main.home_screen.*
@@ -67,6 +68,11 @@ class HomeScreen : AppCompatActivity() {
 
                 is NetworkCallState.Error -> {
                     indeterminate_progress_bar.hide()
+                    val snackbar = Snackbar.make(window.decorView, it.errorMessage,Snackbar.LENGTH_INDEFINITE)
+                        snackbar.setAction("Dismiss") {
+                            snackbar.dismiss()
+                        }
+                    snackbar.show()
                 }
 
                 is NetworkCallState.Success -> {
