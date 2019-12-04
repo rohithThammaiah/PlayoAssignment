@@ -6,6 +6,7 @@ import me.assignment.playo.newsapp.di.modules.BaseUrlModule
 import me.assignment.playo.newsapp.di.modules.ContextModule
 import me.assignment.playo.newsapp.di.modules.RxSchedulerModule
 import me.assignment.playo.newsapp.di.scopes.ApplicationScope
+import me.assignment.playo.newsapp.home.HomeScreen
 
 @ApplicationScope
 @Component(modules = [
@@ -15,4 +16,5 @@ import me.assignment.playo.newsapp.di.scopes.ApplicationScope
     BaseUrlModule::class
 ])
 interface PlayoNewsAppComponent {
+    fun inject(homeScreen: HomeScreen)
 }
