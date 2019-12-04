@@ -1,4 +1,4 @@
-package me.assignment.playo.newsapp.di.network
+package me.assignment.playo.newsapp.network
 
 sealed class NetworkCallState {
     object Loading : NetworkCallState()

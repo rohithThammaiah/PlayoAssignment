@@ -1,4 +1,4 @@
-package me.assignment.playo.newsapp.di.network
+package me.assignment.playo.newsapp.network
 
 import retrofit2.http.GET
 import retrofit2.http.Query

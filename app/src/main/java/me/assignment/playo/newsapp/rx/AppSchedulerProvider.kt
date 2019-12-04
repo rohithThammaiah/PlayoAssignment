@@ -1,4 +1,4 @@
-package me.assignment.playo.newsapp.di.rx
+package me.assignment.playo.newsapp.rx
 
 import io.reactivex.Scheduler
 import io.reactivex.android.schedulers.AndroidSchedulers
