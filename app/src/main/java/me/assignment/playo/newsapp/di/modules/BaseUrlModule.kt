@@ -12,6 +12,6 @@ class BaseUrlModule {
     @ApplicationScope
     @Named("baseUrl")
     fun provideBaseUrl(): String {
-        return "https://hn.algolia.com/api/v1/"
+        return "http://hn.algolia.com/api/v1/"
     }
 }
