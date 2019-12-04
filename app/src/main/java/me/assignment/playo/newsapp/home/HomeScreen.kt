@@ -1,9 +1,9 @@
 package me.assignment.playo.newsapp.home
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
 import android.view.View
+import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
@@ -56,6 +56,7 @@ class HomeScreen : AppCompatActivity() {
         super.onPostCreate(savedInstanceState)
 
         indeterminate_progress_bar.hide()
+        initial_no_data_text.visibility = View.VISIBLE
         home_search_list.adapter = searchListAdapter
 
         homeViewModel.getUIState().observe(this, Observer {
@@ -69,11 +70,18 @@ class HomeScreen : AppCompatActivity() {
                 }
 
                 is NetworkCallState.Success -> {
-                    indeterminate_progress_bar.show()
+                    indeterminate_progress_bar.hide()
+                    initial_no_data_text.visibility = View.GONE
                     searchListAdapter.submitList(it.data)
                 }
             }
         })
+
+        home_search_view.setOnCloseListener {
+            searchListAdapter.submitList(listOf())
+            initial_no_data_text.visibility = View.VISIBLE
+            return@setOnCloseListener true
+        }
 
         home_search_view.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
             override fun onQueryTextSubmit(query: String?): Boolean {
