@@ -45,8 +45,9 @@ class HomeViewModelTest {
     fun `when term is blank then status should be Error with errorType as 1 and a valid error message`() {
         // Given
         val termToBeSearch = ""
+        val networkCallState = homeViewModel.getUIState()
         // When
-        val networkCallState = homeViewModel.searchTerm(termToBeSearch)
+        homeViewModel.searchTerm(termToBeSearch)
         // Then
         networkCallState.observeForTesting {
             Truth.assertThat(networkCallState.value is NetworkCallState.Error).isTrue()
@@ -60,8 +61,9 @@ class HomeViewModelTest {
     fun `when term is not blank then status should be Success`() {
         // Given
         val termToBeSearch = "sports"
+        val networkCallState = homeViewModel.getUIState()
         // When
-        val networkCallState = homeViewModel.searchTerm(termToBeSearch)
+        homeViewModel.searchTerm(termToBeSearch)
         // Then
         networkCallState.observeForTesting {
             Truth.assertThat(networkCallState.value is NetworkCallState.Loading).isTrue()
