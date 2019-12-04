@@ -1,296 +1,938 @@
 {
-  "batchcomplete": true,
-  "continue": {
-    "gpsoffset": 20,
-    "continue": "gpsoffset||"
-  },
-  "query": {
-    "pages": [
-      {
-        "pageid": 57570,
-        "ns": 0,
-        "title": "Sachin Tendulkar",
-        "index": 2,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg/50px-Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
-          "width": 50,
-          "height": 45
-        },
-        "terms": {
-          "description": [
-            "Indian former cricketer"
+  "hits": [
+    {
+      "created_at": "2015-01-30T14:39:39.000Z",
+      "title": "Cultivated Disinterest in Professional Sports",
+      "url": "http://mako.cc/copyrighteous/cultivated-disinterest-in-professional-sports",
+      "author": "luu",
+      "points": 344,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 488,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1422628779,
+      "relevancy_score": 5821,
+      "_tags": [
+        "story",
+        "author_luu",
+        "story_8972179"
+      ],
+      "objectID": "8972179",
+      "_highlightResult": {
+        "title": {
+          "value": "Cultivated Disinterest in Professional <em>Sports</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
           ]
         },
-        "extract": "Sachin Ramesh Tendulkar ( (listen); born 24 April 1973) is an Indian former international cricketer and a former captain of the Indian national team. He is widely regarded as one of the greatest batsmen in the history of cricket. He is the highest run scorer of all time in International cricket. Tendulkar took up cricket at the age of eleven, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen, and went on to represent Mumbai domestically and India internationally for close to twenty-four years. He is the only player to have scored one hundred international centuries, the first batsman to score a double century in an ODI, the holder of the record for the most runs in both Test and ODI, and the only player to complete more than 30,000 runs in international cricket. He is colloquially known as Little Master or Master Blaster,\nIn 2001, Sachin Tendulkar became the first batsman to complete 10,000 ODI runs in his 259 innings. In 2002, halfway through his career, Wisden Cricketers' Almanack ranked him the second greatest Test batsman of all time, behind Don Bradman, and the second greatest ODI batsman of all time, behind Viv Richards. Later in his career, Tendulkar was a part of the Indian team that won the 2011 World Cup, his first win in six World Cup appearances for India. He had previously been named \"Player of the Tournament\" at the 2003 edition of the tournament, held in South Africa. In 2013, he was the only Indian cricketer included in an all-time Test World XI named to mark the 150th anniversary of Wisden Cricketers' Almanack.Tendulkar received the Arjuna Award in 1994 for his outstanding sporting achievement, the Rajiv Gandhi Khel Ratna award in 1997, India's highest sporting honour, and the Padma Shri and Padma Vibhushan awards in 1999 and 2008, respectively, India's fourth and second highest civilian awards. After a few hours of his final match on 16 November 2013, the Prime Minister's Office announced the decision to award him the Bharat Ratna, India's highest civilian award. He is the youngest recipient to date and the first ever sportsperson to receive the award. He also won the 2010 Sir Garfield Sobers Trophy for cricketer of the year at the ICC awards. In 2012, Tendulkar was nominated to the Rajya Sabha, the upper house of the Parliament of India. He was also the first sportsperson and the first person without an aviation background to be awarded the honorary rank of group captain by the Indian Air Force. In 2012, he was named an Honorary Member of the Order of Australia.In 2010, Time magazine included Sachin in its annual Time 100 list as one of the \"Most Influential People in the World\".\nIn December 2012, Tendulkar announced his retirement from ODIs. He retired from Twenty20 cricket in October 2013 and subsequently retired from all forms of cricket on 16 November 2013 after playing his 200th Test match, against the West Indies in Mumbai's Wankhede Stadium. Tendulkar played 664 international cricket matches in total, scoring 34,357 runs.In 2019, Tendulkar was inducted into the ICC Cricket Hall of Fame."
-      },
-      {
-        "pageid": 620811,
-        "ns": 0,
-        "title": "Sachin Ahir",
-        "index": 19,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sachin_Ahir2.JPG/33px-Sachin_Ahir2.JPG",
-          "width": 33,
-          "height": 50
-        },
-        "terms": {
-          "description": [
-            "politician"
+        "url": {
+          "value": "http://mako.cc/copyrighteous/cultivated-disinterest-in-professional-<em>sports</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
           ]
         },
-        "extract": "Sachin ahir (Marathi: सचिन अहिर)  (born 21 March 1972 in Mumbai, India) is a member of the Shivsena. He was Member of the Legislative Assembly from Worli constituency."
-      },
-      {
-        "pageid": 1126607,
-        "ns": 0,
-        "title": "Sachin",
-        "index": 1,
-        "terms": {
-          "description": [
-            "Wikipedia disambiguation page"
+        "author": {
+          "value": "luu",
+          "matchLevel": "none",
+          "matchedWords": [
           ]
         },
-        "extract": "Sachin may refer to:\n\nSachin (given name), an Indian given name, including a list of people with the name\nSachin (actor) (born 1957), Indian actor and filmmaker\nSachin Tendulkar (born 1973), Indian cricketer"
-      },
-      {
-        "pageid": 5314090,
-        "ns": 0,
-        "title": "Sacinandana Swami",
-        "index": 13,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sacinandana_Swami_at_Santiago_de_Compostela.JPG/38px-Sacinandana_Swami_at_Santiago_de_Compostela.JPG",
-          "width": 38,
-          "height": 50
-        },
-        "terms": {
-          "description": [
-            "Vaishnava guru and sannyasi"
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": [
           ]
-        },
-        "extract": "Sachinandana Swami (born 1954) is a Gaudiya Vaishnava guru, sannyasi, and one of the religious leaders of the International Society for Krishna Consciousness (commonly known as the Hare Krishnas or ISKCON)."
-      },
-      {
-        "pageid": 6957873,
-        "ns": 0,
-        "title": "Sachin Pilot",
-        "index": 4,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sachin_Pilot_at_the_India_Economic_Summit_2010_cropped.jpg/39px-Sachin_Pilot_at_the_India_Economic_Summit_2010_cropped.jpg",
-          "width": 39,
-          "height": 50
-        },
-        "terms": {
-          "description": [
-            "Indian Politician, born 1977"
-          ]
-        },
-        "extract": "Sachin Pilot (born 7 September 1977) is the Deputy Chief Minister of the state of Rajasthan and as the President of the Rajasthan Pradesh Congress Committee. As member of the Congress party, he has represented the Tonk assembly seat in Rajasthan since 2018.\nPilot was previously a member of the Indian Parliament for the Ajmer in 2009 and Dausa constituencies of Rajasthan, becoming the youngest member of parliament when he was elected from the latter seat in 2004, aged 26. He lost Lok Sabha election from Ajmer constituency in 2014  He served as the Minister of Corporate Affairs in the second Manmohan Singh Ministry."
-      },
-      {
-        "pageid": 10730502,
-        "ns": 0,
-        "title": "Sachin (actor)",
-        "index": 3,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/SachinPilgaonkar.jpg/33px-SachinPilgaonkar.jpg",
-          "width": 33,
-          "height": 50
-        },
-        "terms": {
-          "description": [
-            "Indian actor, director, producer, Writer, singer"
-          ]
-        },
-        "extract": "Sachin Pilgaonkar (born 17 August 1957), often known by his first name Sachin, is an Indian film and television actor, director, singer and producer.Starting as a footballer in the Marathi film, Ha Majha Marg Ekla (1962), he went on to work in around 65 films as a child artist, before switching to adult roles, and being part of films like Geet Gaata Chal (1975), Balika Badhu (1976), Ankhiyon Ke Jharokhon Se (1978) and Nadiya Ke Paar (1982) as a lead actor, which were all successful. He has worked in Hindi, Marathi and also in Bhojpuri cinema, and has acted, produced and directed successful comedy shows on Indian television, including Tu Tu Main Main (2000) and Kadvee Khatti Meethi. He also directed several hit Marathi films starting with Mai Baap (1982), Navri Mile Navryala (1984), Ashi Hi Banwa Banwi (1988), Amchyasarkhe Aamich (1990) and Navra Mazha Navsacha (2004)."
-      },
-      {
-        "pageid": 11017085,
-        "ns": 0,
-        "title": "Sachin Bhowmick",
-        "index": 9,
-        "terms": {
-          "description": [
-            "Film screenwriter and director"
-          ]
-        },
-        "extract": "Sachin  Bhowmick (Bengali: শচীন ভৌমিক; 17 July 1930 – 12 April 2011) was an Indian Hindi film writer and director. Writing was his main work and he wrote stories or screenplays for over 94 films. He is best remembered for directing the light romantic black comedy classic Raja Rani (1973). He was also a regular contributor to Ultorath, a Bengali magazine on cinema. Due to the Bengali pronunciation of his surname Bhaumick we will find his surname spelled as Bhowmick in numerous sites."
-      },
-      {
-        "pageid": 12768319,
-        "ns": 0,
-        "title": "Sachindra Nath Sanyal",
-        "index": 16,
-        "terms": {
-          "description": [
-            "Indian revolutionary"
-          ]
-        },
-        "extract": "Sachindra Nath Sanyal pronunciation  was an Indian revolutionary and a founder of the Hindustan Republican Association (HRA, which after 1928 became the Hindustan Socialist Republican Association) that was created to carry out armed resistance against the British Empire in India. He was a mentor for revolutionaries like Chandrashekhar Azad and Bhagat Singh."
-      },
-      {
-        "pageid": 16941961,
-        "ns": 0,
-        "title": "Sachin Shroff",
-        "index": 12,
-        "terms": {
-          "description": [
-            "Indian actor"
-          ]
-        },
-        "extract": "Sachin Shroff (born 17 December 1979) is a businessman and TV personality. He is an actor, anchor and dancer.\nHe played Gyan in Har Ghar Kuch Kehta Hai and Arjun in Naaginn. Other appearances include Sinndoor Tere Naam Ka, Saat Phere, Naam Gum Jayega, Shagun, and Vishwas."
-      },
-      {
-        "pageid": 20645509,
-        "ns": 0,
-        "title": "Sachin Gupta (musician)",
-        "index": 17,
-        "terms": {
-          "description": [
-            "Indian musician"
-          ]
-        },
-        "extract": "Sachin Gupta (born 12 August 1984 in New Delhi) is an Indian music director, composer, guitarist, record producer and a Singer. His work has spanned everything from playing live shows with his previous band 'Mrigya' to composing indie pop albums for artists like Atif Aslam, Alisha Chinoy, Jal, Ahmed Jahanzeb, Apache Indian and Mika among others. Termed by international media as the 'Flying Finger Melodies', his music, as he says, is inspired by real life instances, while his guitar playing has been heavily influenced by Yngwie Malmsteen."
-      },
-      {
-        "pageid": 20817418,
-        "ns": 0,
-        "title": "Sachin Khedekar",
-        "index": 6,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sachin_Khedekar.jpg/50px-Sachin_Khedekar.jpg",
-          "width": 50,
-          "height": 38
-        },
-        "terms": {
-          "description": [
-            "Indian actor"
-          ]
-        },
-        "extract": "Sachin Khedekar is an Indian actor and director known for his work in Hindi, Marathi, Telugu, Tamil, Malayalam and Gujarati language films. His well-known films include Aap Kaa Surroor, Astitva and Shyam Benegal's Netaji Subhas Chandra Bose: The Forgotten Hero in which he portrayed Subhas Chandra Bose. Notable TV series include Imtihaan and  Samvidhaan in which he played B. R. Ambedkar."
-      },
-      {
-        "pageid": 24361386,
-        "ns": 0,
-        "title": "Sachin Vaze",
-        "index": 14,
-        "terms": {
-          "description": [
-            "Indian police officer"
-          ]
-        },
-        "extract": "Sachin Hindurao Vaze (Marathi: सचिन वझे) (born 22 February 1972) is a former police officer of the Maharashtra Police Force of India. Vaze is known as an \"encounter specialist\" with the Mumbai Encounter Squad and was involved with the deaths of as many as 63 alleged criminals. Vaze joined Maharashtra Police Force in 1990 and he resigned on 30 November 2007. He had killed several gangsters of the top criminal organisations like Chhota Rajan and Dawood Ibrahim's D-Company."
-      },
-      {
-        "pageid": 27591359,
-        "ns": 0,
-        "title": "Sachini Ayendra Stanley",
-        "index": 18,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sachini_Ayendra.jpg/50px-Sachini_Ayendra.jpg",
-          "width": 50,
-          "height": 50
-        },
-        "terms": {
-          "description": [
-            "Sri Lankan actress and model"
-          ]
-        },
-        "extract": "Sachini Ayendra Stanley (Sinhala: සචිනි අයේන්ද්‍රා ස්ටැන්ලි), is a Sri Lankan film actress currently working in the Sinhala film industry. She won Miss Sri Lanka in 2003 and represented Sri Lanka at the 53rd Miss World Pageant in Sanya, China. After being crowned as Miss Sri Lanka, her first film, Aadaraneeya Wassaanaya, directed by Senesh Dissanaike Bandara, was released in 2004. She won the award for best supporting actress at Signis Sri Lanka Film Awards for her performance.She made her television debut playing the title role in the drama ‘Hiruni' directed by Kumarasiri Abeykoon on Sirasa TV in 2005. Her stage debut was as the character Sarala in the play For Better or For Worse directed by Indu Dharmasena in 2009.\nSachini is the first Sri Lankan to compete in the world championships of performing arts in Los Angeles in the U.S. in 2016. She won two silver medals and one bronze for acting categories classical/open/contemporary.\nShe competed again in the world championships of performing arts in 2017 and won 4 bronze medals for acting Categories she also won a honorary mention for best national costume."
-      },
-      {
-        "pageid": 31911909,
-        "ns": 0,
-        "title": "Sachin H. Jain",
-        "index": 11,
-        "terms": {
-          "description": [
-            "American academic"
-          ]
-        },
-        "extract": "Sachin H. Jain (born in 1980 in New York City and raised in Alpine, New Jersey) is an American physician who held leadership positions in the Center for Medicare and Medicaid Services (CMS) and the Office of the National Coordinator for Health Information Technology (ONC).  He is president and chief executive officer of the CareMore Health System after serving as Chief Medical Information and Innovation Officer at Merck and Co.  He is also co-founder and co-Editor-in-Chief of \"Healthcare: The Science of Delivery and Innovation,\" adjunct professor of medicine at the Stanford University School of Medicine, and a Contributor at Forbes.  In 2018, he was named one of American healthcare's most 100 most influential leaders by Modern Healthcare magazine (#36)."
-      },
-      {
-        "pageid": 35319387,
-        "ns": 0,
-        "title": "Sachin Kundalkar",
-        "index": 15,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sachin_Kundalkar_at_Audio_release_of_%27Aiyyaa%27.jpg/46px-Sachin_Kundalkar_at_Audio_release_of_%27Aiyyaa%27.jpg",
-          "width": 46,
-          "height": 50
-        },
-        "terms": {
-          "description": [
-            "Marathi filmmaker and screenwriter"
-          ]
-        },
-        "extract": "Sachin Kundalkar or Sacin Kuṇḍalakar is a Marathi film director and screenplay writer. He is known for his directorial works of Nirop (2007) and Gandha (2009). He has also written for the theatre. He is recipient of two National Film Awards, as a director for Nirop and as a screenwriter for Gandha, the first Marathi film to win Best Screenplay award since the category's institution in 1967."
-      },
-      {
-        "pageid": 39817282,
-        "ns": 0,
-        "title": "Sachin Joab",
-        "index": 20,
-        "terms": {
-          "description": [
-            "actor"
-          ]
-        },
-        "extract": "Sachin Joab (born 1978) is an Australian actor. He took an interest in acting during primary school and attended various acting schools and workshops. Since graduating from the National Theatre, Joab has appeared in several films and television, including City Homicide, Rush, My Year Without Sex, 10 Terrorists, and Conspiracy 365. In 2011, Joab successfully auditioned for the recurring role of Ajay Kapoor in the soap opera Neighbours. He was later promoted to the main cast. Joab left the show in May 2013. The actor has since appeared in SBS miniseries Better Man and feature film Lion."
-      },
-      {
-        "pageid": 40352209,
-        "ns": 0,
-        "title": "Sachin–Jigar",
-        "index": 8,
-        "terms": {
-          "description": [
-            "Music composer duo"
-          ]
-        },
-        "extract": "Sachin–Jigar is a music composer duo from Mumbai, India, consisting of Sachin Sanghvi and Jigar Saraiya. They compose for Bollywood and Gujarati movies. They have scored a number of successful soundtracks. Before working independently as music director duo, they were assisting Pritam in setting up musical arrangements."
-      },
-      {
-        "pageid": 42182160,
-        "ns": 0,
-        "title": "Sachin Bansal",
-        "index": 5,
-        "thumbnail": {
-          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sachin_Bansal.jpg/36px-Sachin_Bansal.jpg",
-          "width": 36,
-          "height": 50
-        },
-        "terms": {
-          "description": [
-            "Indian Entrepreneur, founder and CEO of Flipkart.com"
-          ]
-        },
-        "extract": "Sachin Bansal (born August 5, 1981) is an Indian technology entrepreneur and an ardent gamer. He is best known as the co-founder of Flipkart that was acquired by Walmart (77 per cent stakes) at $16 billion in 2018. During his career at Flipkart that spanned 11 years, Bansal held the position of Chief Executive Officer and Executive Chairman. In 2018, Bansal exited Flipkart along with the Walmart deal.In 2007, Sachin Bansal and Binny Bansal (not related) founded Flipkart whose valuation in 2018 was $20.8 billion. In 2018, Bansal held 5.5 per cent stake in Flipkart, which he sold off to Walmart and his net worth then was a little over $1 billion. In May 2018, Bansal announced that after stepping down as the Executive Chairman of Flipkart, he would be focusing on pending personal projects, gaming and brushing up his coding skills."
-      },
-      {
-        "pageid": 50125865,
-        "ns": 0,
-        "title": "Sachin: A Billion Dreams",
-        "index": 7,
-        "terms": {
-          "description": [
-            "2017 Indian biographical film directed by James Erskine"
-          ]
-        },
-        "extract": "Sachin: A Billion Dreams is a 2017 Indian documentary sports film directed by James Erskine and produced by Ravi Bhagchandka and Srikant Bhasi under the banners 200 NotOut Productions and Carnival Motion Pictures. The film is a documentary on the life of Indian cricketer Sachin Tendulkar. It captures Tendulkar's cricket and personal life in substantial detail, as well as reveals few aspects of his life which have never been heard of or seen before.The film is simultaneously shot in Hindi, Marathi and English and was released on 26 May 2017, along with the dubbed versions in Tamil and Telugu. This film was declared tax free in Maharashtra, Chhattisgarh, Karnataka, Kerala, and Odisha."
-      },
-      {
-        "pageid": 55394132,
-        "ns": 0,
-        "title": "Sachin (film)",
-        "index": 10,
-        "terms": {
-          "description": [
-            "film directed by Santhosh Nair"
-          ]
-        },
-        "extract": "Sachin is a 2019 Indian Malayalam-language film directed by Santhosh Nair and written by S. L. Puram Jayasurya. It stars Dhyan Sreenivasan, Aju Varghese, Hareesh Kanaran, Renji Panicker, Ramesh Pisharody, Appani Sarath, Maniyanpilla Raju, Anna Rajan, Maala Parvati, Aabid Nassar, Reshmi Boban and Sethu Lakshmi. Sachin is a romance film in the backdrop of cricket. The story revolves around a boy who born on the auspicious day when cricketer Sachin Tendulkar hit century. After watching Sachin's performance, Viswanathan (Raju) got excited and named his son as Sachin. The film was released on 19 July 2019.\n\n"
+        }
       }
-    ]
-  }
+    },
+    {
+      "created_at": "2018-07-15T16:54:36.000Z",
+      "title": "When You Watch Sports, Your Brain Thinks You’re Playing",
+      "url": "http://nautil.us/issue/39/sport/the-unique-neurology-of-the-sports-fans-brain",
+      "author": "prostoalex",
+      "points": 338,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 155,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1531673676,
+      "relevancy_score": 8240,
+      "_tags": [
+        "story",
+        "author_prostoalex",
+        "story_17535995"
+      ],
+      "objectID": "17535995",
+      "_highlightResult": {
+        "title": {
+          "value": "When You Watch <em>Sports</em>, Your Brain Thinks You’re Playing",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://nautil.us/issue/39/sport/the-unique-neurology-of-the-<em>sports</em>-fans-brain",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "prostoalex",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2017-10-21T19:28:11.000Z",
+      "title": "Beating the bookies – how the online sports betting market is rigged",
+      "url": "https://arxiv.org/abs/1710.02824",
+      "author": "zeristor",
+      "points": 242,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 155,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1508614091,
+      "relevancy_score": 7728,
+      "_tags": [
+        "story",
+        "author_zeristor",
+        "story_15523186"
+      ],
+      "objectID": "15523186",
+      "_highlightResult": {
+        "title": {
+          "value": "Beating the bookies – how the online <em>sports</em> betting market is rigged",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "https://arxiv.org/abs/1710.02824",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "zeristor",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2017-06-20T23:12:06.000Z",
+      "title": "Twitch nabs exclusive streaming deal with Blizzard for e-sports events",
+      "url": "https://techcrunch.com/2017/06/20/twitch-nabs-exclusive-streaming-deal-with-blizzard-for-20-major-esports-events",
+      "author": "janober",
+      "points": 230,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 192,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1498000326,
+      "relevancy_score": 7500,
+      "_tags": [
+        "story",
+        "author_janober",
+        "story_14599337"
+      ],
+      "objectID": "14599337",
+      "_highlightResult": {
+        "title": {
+          "value": "Twitch nabs exclusive streaming deal with Blizzard for e-<em>sports</em> events",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "https://techcrunch.com/2017/06/20/twitch-nabs-exclusive-streaming-deal-with-blizzard-for-20-major-esports-events",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "janober",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2019-04-04T15:24:10.000Z",
+      "title": "Less Pizza, More Yoga: E-Sports Embraces Traditional Training Methods",
+      "url": "https://www.nytimes.com/2019/04/02/sports/esports-league-of-legends.html",
+      "author": "bookofjoe",
+      "points": 222,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 159,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1554391450,
+      "relevancy_score": 8749,
+      "_tags": [
+        "story",
+        "author_bookofjoe",
+        "story_19573390"
+      ],
+      "objectID": "19573390",
+      "_highlightResult": {
+        "title": {
+          "value": "Less Pizza, More Yoga: E-<em>Sports</em> Embraces Traditional Training Methods",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "https://www.nytimes.com/2019/04/02/<em>sports</em>/esports-league-of-legends.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "bookofjoe",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2019-01-28T10:20:10.000Z",
+      "title": "Why Do Rich People Love Endurance Sports? (2017)",
+      "url": "https://www.outsideonline.com/2229791/why-are-most-endurance-athletes-rich/",
+      "author": "shrikant",
+      "points": 189,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 356,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1548670810,
+      "relevancy_score": 8629,
+      "_tags": [
+        "story",
+        "author_shrikant",
+        "story_19016362"
+      ],
+      "objectID": "19016362",
+      "_highlightResult": {
+        "title": {
+          "value": "Why Do Rich People Love Endurance <em>Sports</em>? (2017)",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "https://www.outsideonline.com/2229791/why-are-most-endurance-athletes-rich/",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "shrikant",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2015-10-05T23:08:30.000Z",
+      "title": "Fantasy Sports Employees Bet at Rival Sites Using Inside Information",
+      "url": "http://www.nytimes.com/2015/10/06/sports/fanduel-draftkings-fantasy-employees-bet-rivals.html",
+      "author": "joshrotenberg",
+      "points": 180,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 104,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1444086510,
+      "relevancy_score": 6303,
+      "_tags": [
+        "story",
+        "author_joshrotenberg",
+        "story_10335645"
+      ],
+      "objectID": "10335645",
+      "_highlightResult": {
+        "title": {
+          "value": "Fantasy <em>Sports</em> Employees Bet at Rival Sites Using Inside Information",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://www.nytimes.com/2015/10/06/<em>sports</em>/fanduel-draftkings-fantasy-employees-bet-rivals.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "joshrotenberg",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2016-01-06T14:55:06.000Z",
+      "title": "How the Daily Fantasy Sports Industry Turns Fans into Suckers",
+      "url": "http://www.nytimes.com/2016/01/06/magazine/how-the-daily-fantasy-sports-industry-turns-fans-into-suckers.html",
+      "author": "scottfr",
+      "points": 178,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 147,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1452092106,
+      "relevancy_score": 6478,
+      "_tags": [
+        "story",
+        "author_scottfr",
+        "story_10850762"
+      ],
+      "objectID": "10850762",
+      "_highlightResult": {
+        "title": {
+          "value": "How the Daily Fantasy <em>Sports</em> Industry Turns Fans into Suckers",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://www.nytimes.com/2016/01/06/magazine/how-the-daily-fantasy-<em>sports</em>-industry-turns-fans-into-suckers.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "scottfr",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2015-12-23T12:29:17.000Z",
+      "title": "Top fantasy sports player uses software, analytics to reap millions",
+      "url": "http://www.bostonglobe.com/business/2015/12/23/from-boston-penthouse-world-best-fantasy-player-plunges-into-startup-world/QHNpLh0O3QMyUDqTd4t27N/story.html",
+      "author": "livestyle",
+      "points": 162,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 81,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1450873757,
+      "relevancy_score": 6451,
+      "_tags": [
+        "story",
+        "author_livestyle",
+        "story_10782995"
+      ],
+      "objectID": "10782995",
+      "_highlightResult": {
+        "title": {
+          "value": "Top fantasy <em>sports</em> player uses software, analytics to reap millions",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://www.bostonglobe.com/business/2015/12/23/from-boston-penthouse-world-best-fantasy-player-plunges-into-startup-world/QHNpLh0O3QMyUDqTd4t27N/story.html",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "livestyle",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2018-12-25T23:15:29.000Z",
+      "title": "I Used to Write for Sports Illustrated. Now I Deliver Packages for Amazon",
+      "url": "https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/",
+      "author": "toufiqbarhamov",
+      "points": 160,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 93,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1545779729,
+      "relevancy_score": 8561,
+      "_tags": [
+        "story",
+        "author_toufiqbarhamov",
+        "story_18759575"
+      ],
+      "objectID": "18759575",
+      "_highlightResult": {
+        "title": {
+          "value": "I Used to Write for <em>Sports</em> Illustrated. Now I Deliver Packages for Amazon",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "toufiqbarhamov",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2011-11-24T23:19:26.000Z",
+      "title": "The sports footage you won't see on TV this Thanksgiving",
+      "url": "http://online.wsj.com/article/SB10001424052970203716204577015903150731054.html?mod=googlenews_wsj",
+      "author": "brownie",
+      "points": 159,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 105,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1322176766,
+      "relevancy_score": 3589,
+      "_tags": [
+        "story",
+        "author_brownie",
+        "story_3275698"
+      ],
+      "objectID": "3275698",
+      "_highlightResult": {
+        "title": {
+          "value": "The <em>sports</em> footage you won't see on TV this Thanksgiving",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://online.wsj.com/article/SB10001424052970203716204577015903150731054.html?mod=googlenews_wsj",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "brownie",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2015-12-07T21:28:03.000Z",
+      "title": "The Sports Bubble Is About to Pop",
+      "url": "http://www.thedailybeast.com/articles/2015/12/06/the-sports-bubble-is-about-to-pop.html",
+      "author": "gabbo",
+      "points": 153,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 168,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1449523683,
+      "relevancy_score": 6424,
+      "_tags": [
+        "story",
+        "author_gabbo",
+        "story_10692841"
+      ],
+      "objectID": "10692841",
+      "_highlightResult": {
+        "title": {
+          "value": "The <em>Sports</em> Bubble Is About to Pop",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://www.thedailybeast.com/articles/2015/12/06/the-<em>sports</em>-bubble-is-about-to-pop.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "gabbo",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2014-03-13T13:33:53.000Z",
+      "title": "What Real-Time Gambling Data Reveals About Sports",
+      "url": "http://www.gambletron2000.com/about",
+      "author": "lil_tee",
+      "points": 152,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 64,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1394717633,
+      "relevancy_score": 5201,
+      "_tags": [
+        "story",
+        "author_lil_tee",
+        "story_7391656"
+      ],
+      "objectID": "7391656",
+      "_highlightResult": {
+        "title": {
+          "value": "What Real-Time Gambling Data Reveals About <em>Sports</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://www.gambletron2000.com/about",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "lil_tee",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2018-05-14T14:22:12.000Z",
+      "title": "US Supreme Court strikes down federal law prohibiting sports gambling",
+      "url": "http://www.espn.com/chalk/story/_/id/23501236/supreme-court-strikes-federal-law-prohibiting-sports-gambling",
+      "author": "mark-ruwt",
+      "points": 149,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 156,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1526307732,
+      "relevancy_score": 8131,
+      "_tags": [
+        "story",
+        "author_mark-ruwt",
+        "story_17065755"
+      ],
+      "objectID": "17065755",
+      "_highlightResult": {
+        "title": {
+          "value": "US Supreme Court strikes down federal law prohibiting <em>sports</em> gambling",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://www.espn.com/chalk/story/_/id/23501236/supreme-court-strikes-federal-law-prohibiting-<em>sports</em>-gambling",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "mark-ruwt",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2010-11-17T15:45:39.000Z",
+      "title": "AI Sports Journalist Covers Every Division I College Basketball Team",
+      "url": "http://singularityhub.com/2010/11/17/ai-sports-journalist-covers-every-division-i-college-basketball-team/",
+      "author": "kkleiner",
+      "points": 142,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 60,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1290008739,
+      "relevancy_score": 2876,
+      "_tags": [
+        "story",
+        "author_kkleiner",
+        "story_1914556"
+      ],
+      "objectID": "1914556",
+      "_highlightResult": {
+        "title": {
+          "value": "AI <em>Sports</em> Journalist Covers Every Division I College Basketball Team",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://singularityhub.com/2010/11/17/ai-<em>sports</em>-journalist-covers-every-division-i-college-basketball-team/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "kkleiner",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2018-07-03T13:47:34.000Z",
+      "title": "When Sports Betting Is Legal, the Value of Game Data Soars",
+      "url": "https://www.nytimes.com/2018/07/02/sports/sports-betting.html",
+      "author": "jbredeche",
+      "points": 137,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 69,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1530625654,
+      "relevancy_score": 8225,
+      "_tags": [
+        "story",
+        "author_jbredeche",
+        "story_17450125"
+      ],
+      "objectID": "17450125",
+      "_highlightResult": {
+        "title": {
+          "value": "When <em>Sports</em> Betting Is Legal, the Value of Game Data Soars",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "https://www.nytimes.com/2018/07/02/<em>sports</em>/<em>sports</em>-betting.html",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "jbredeche",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2019-01-15T14:27:56.000Z",
+      "title": "U.S. Now Says All Online Gambling Illegal, Not Just Sports Bets",
+      "url": "https://www.bloomberg.com/news/articles/2019-01-15/u-s-now-says-all-online-gambling-illegal-not-just-sports-bets",
+      "author": "cohaagen",
+      "points": 131,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 156,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1547562476,
+      "relevancy_score": 8602,
+      "_tags": [
+        "story",
+        "author_cohaagen",
+        "story_18911284"
+      ],
+      "objectID": "18911284",
+      "_highlightResult": {
+        "title": {
+          "value": "U.S. Now Says All Online Gambling Illegal, Not Just <em>Sports</em> Bets",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "https://www.bloomberg.com/news/articles/2019-01-15/u-s-now-says-all-online-gambling-illegal-not-just-<em>sports</em>-bets",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "cohaagen",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2017-11-27T22:49:37.000Z",
+      "title": "Formula 1 e-sports now more exciting than the real thing",
+      "url": "https://arstechnica.com/cars/2017/11/formula-1-esports-now-more-exciting-than-the-real-thing-and-thats-a-problem/",
+      "author": "okket",
+      "points": 126,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 92,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1511822977,
+      "relevancy_score": 7809,
+      "_tags": [
+        "story",
+        "author_okket",
+        "story_15792386"
+      ],
+      "objectID": "15792386",
+      "_highlightResult": {
+        "title": {
+          "value": "Formula 1 e-<em>sports</em> now more exciting than the real thing",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "https://arstechnica.com/cars/2017/11/formula-1-esports-now-more-exciting-than-the-real-thing-and-thats-a-problem/",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "okket",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2015-08-01T04:17:47.000Z",
+      "title": "A Pakistani Teen Gets Rich in E-Sports",
+      "url": "http://www.bloomberg.com/graphics/2015-pakistani-teens-esport-dream/",
+      "author": "adventured",
+      "points": 116,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 54,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1438402667,
+      "relevancy_score": 6169,
+      "_tags": [
+        "story",
+        "author_adventured",
+        "story_9985894"
+      ],
+      "objectID": "9985894",
+      "_highlightResult": {
+        "title": {
+          "value": "A Pakistani Teen Gets Rich in E-<em>Sports</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://www.bloomberg.com/graphics/2015-pakistani-teens-esport-dream/",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        },
+        "author": {
+          "value": "adventured",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2015-12-05T20:46:00.000Z",
+      "title": "Why Old Sports Photos Often Have a Blue Haze",
+      "url": "http://petapixel.com/2015/10/15/why-old-sports-photos-often-have-a-blue-haze/",
+      "author": "lelf",
+      "points": 116,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 33,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1449348360,
+      "relevancy_score": 6411,
+      "_tags": [
+        "story",
+        "author_lelf",
+        "story_10683217"
+      ],
+      "objectID": "10683217",
+      "_highlightResult": {
+        "title": {
+          "value": "Why Old <em>Sports</em> Photos Often Have a Blue Haze",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "url": {
+          "value": "http://petapixel.com/2015/10/15/why-old-<em>sports</em>-photos-often-have-a-blue-haze/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "sports"
+          ]
+        },
+        "author": {
+          "value": "lelf",
+          "matchLevel": "none",
+          "matchedWords": [
+          ]
+        }
+      }
+    }
+  ],
+  "nbHits": 32740,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "query": "sports",
+  "params": "advancedSyntax=true&analytics=true&analyticsTags=backend&query=sports",
+  "processingTimeMS": 2
 }
